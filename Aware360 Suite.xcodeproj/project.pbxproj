@@ -411,6 +411,7 @@
 				1A2562031A8B0CB600DB608D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1A2562041A8B0CB600DB608D /* Build configuration list for PBXNativeTarget "Aware360 SuiteTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +420,7 @@
 				1A2562061A8B0CB600DB608D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
